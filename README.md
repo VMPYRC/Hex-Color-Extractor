@@ -9,7 +9,7 @@
 3. Open in Terminal
 4. Dependencies: `pip install pillow`
 5. Place images in the `images` folder
-6. Run the script: `python extract_colors.py`
+6. Run the script: `python hex.py`
 7. Check the files in the `outputs` folder
 8. Repeat steps 5 and 6 for new images
 
